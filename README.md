@@ -1,4 +1,4 @@
-# measuring_diameter-MATLAB
+# Measuring_diameter-MATLAB
 Measuring the Diameter of Object within image
 
 This is the basic MATLAB project for calculating the diameter of circle from the image.
